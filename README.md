@@ -4,6 +4,9 @@
 This is the repository of Tomas Ruffa made for SilverDev - Beka
 
 
+## Demo
+![](https://github.com/tomasruffa/silverdevtest/src/assets/demo.gif)
+
 ## Instalation
 
 Node version used: v18.17.0
